@@ -15,7 +15,7 @@ Basic setup
 ------------
 
 <pre>$ git clone https://github.com/RaquelRufino/ToDo-Django </pre>
-<pre>$ cd todo</pre>
+<pre>$ cd ToDo-Django </pre>
 <pre>$ python manage.py makemigrations && python manage.py migrate</pre>
 
 Now, run the server to see your todo app
